@@ -6,3 +6,4 @@
 - [Optional get() vs orElse()](https://github.com/jeus1998/About-Java/blob/main/record/Optional%20get()%20vs%20orElse().md)
 - [LinkedList vs ArrayDeque](https://github.com/jeus1998/About-Java/blob/main/record/LinkedList%20vs%20ArrayDeque.md)
 - [가변 인자(Varargs)](https://github.com/jeus1998/About-Java/blob/main/record/%EA%B0%80%EB%B3%80%20%EC%9D%B8%EC%9E%90(Varargs).md)
+- [함수형 인터페이스](https://github.com/jeus1998/About-Java/blob/main/record/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
