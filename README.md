@@ -9,3 +9,4 @@
 - [함수형 인터페이스](https://github.com/jeus1998/About-Java/blob/main/record/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 - [Thread vs Runnable](https://github.com/jeus1998/About-Java/blob/main/record/Thread%20VS%20Runnable.md)
 - [Non-DaemonThread VS DaemonThread & Junit](https://github.com/jeus1998/About-Java/blob/main/record/Non-DaemonThread%20VS%20DaemonThread%20%26%20Junit.md)
+- [제네릭](https://github.com/jeus1998/About-Java/blob/main/record/Generics.md)
